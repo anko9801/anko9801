@@ -6,5 +6,6 @@
 ---
 
 ![anko's GitHub stats](https://github-readme-stats.vercel.app/api?username=anko9801&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anko9801&layout=compact&theme=tokyonight)
-![trophy](https://github-profile-trophy.vercel.app/?username=anko9801&column=4&theme=monokai)
+
+![Metrics](/github-metrics.svg)
+
